@@ -1,3 +1,3 @@
-# Quantum_dots_cellular_automata
-This qiskit program attempts to simulate quantum gates from scratch. It is derived from the motivation of using quantum dots as cells in Quantum Cellular Automata.
-In this qiskit program, I simulate a toffoli gate using single qubits, which interact with their adjacent qubits.
+# quantum-dots-cellular-automata
+
+This simulation uses IBM's qiskit to simulate a model of qunatum dots cellular automata. Further, using the implementation of QDCA, we implement quantum gates by adjusting relevant parameters, and observe the results. 
